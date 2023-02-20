@@ -1,0 +1,15 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/80787/Desktop/ESP32S3_LVGL_FreeKWatch/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_4f28a\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake -f Makefile /nologo cmTC_4f28a\fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/80787/Desktop/ESP32S3_LVGL_FreeKWatch/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_892a6\fast && 系统找不到指定的文件。
+Generator: execution of make failed. Make command was: nmake -f Makefile /nologo cmTC_892a6\fast && 
+
+
